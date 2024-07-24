@@ -52,4 +52,4 @@ _(Economics, Business Studies and Computer Application Studies)_
 # Certifications
 - Databricks - Generative AI Fundamentals, Databricks Lakehouse Fundamentals
 - Azure - Power BI Data Analyst Associate
-- AWS - AWS Certified Cloud Practitioner
+- AWS - Certified Cloud Practitioner
