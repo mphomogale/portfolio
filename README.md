@@ -1,6 +1,8 @@
-# portfolio
+# Portfolio
 
-##Education 
+#Experiance
+  ##PWC UK
+  ###Innovation & Data Manager
 
 ##Projects
 
