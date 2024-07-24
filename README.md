@@ -1,1 +1,7 @@
 # portfolio
+
+##Education 
+
+##Projects
+
+##Certifications
