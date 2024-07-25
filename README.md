@@ -3,18 +3,20 @@
 # Experience
 ### PwC - United Kingdom
 #### Innovation & Data Manager, April 2023 - Present
-- Solution owner for next generation auditing - leading implementations for different technology stacks including SQL, Python, Databricks, Microsoft Power platforms, and Alteryx process Intelligence, with the goal of reducing up to 50% for repetitive work between PwC and clients. Objective achieved Q1 2024, resulting insignificantly reducing the risk material misstatement of highly judgmental FSLI.
-- Developing data-driven risk and control models to generate insights and finding patterns in data to understand client risk to improve audit quality and market trust in external markets. Executed using blob stores, databricks ETL pipelines and Power BI.
+- Solution owner for next generation auditing - leading implementations for different technology stacks including Azure,Databricks, Microsoft Power platforms and Alteryx to achieve the goal of reducing up to 50% for repetitive work.
+- Developing data pipelines for risk and control models to generate insights and finding patterns in data to understand client risk to improve audit quality and market trust in external markets.
 - Managing a team of 4-7 people which I'm responsible for designing, developing ways to automate, coaching teams, and holding a leadership role in internal and external groups.
 
 ### Anheuser Busch Inbev - South Africa
 #### Africa Financial Performance & Analytics Manager, November 2021 - March 2023
-- Responsible for designing and implementing financial models used for budgeting and strategic planning of $4bn turnover in revenue to support critical decision making for Africa zone presidents and VP’s. Scope includes12 countries—South Africa, Eswatini, Lesotho, Namibia, Botswana, Mozambique, Zambia, Tanzania, Uganda, Ghana, Nigeria, and Mauritius. Successfully executed 2022/2023 modelling on time from topdown and bottom-up planning aligned with the company’s 10-year strategic plans for all beverage categories, assurance and compliance and sustainability missions. Executed using Azure Synapse, data factory and Power BI.
+- Responsible for designing and implementing financial models used for budgeting and strategic planning of $4bn turnover in revenue to support critical decision making for Africa. Successfully executed 2022/2023 modelling on time for all beverage categories, assurance and compliance and sustainability missions.
 - Implemented an Anaplan solution to improve reporting and budgeting by automating manual excel processes to Anaplan. Create a financial SKU-Universe data warehouse to act as a data mart to manage ad hoc queries to support operational decisions using SQL scripting and Power BI as a presentation layer for average business users. Reducing cycle planning from 5 working days to only 3. Designing and building ETL pipelines for MI reporting to senior leadership.
 
 #### Global Risk Management Specialist, March 2020 - October 2021
-- Responsible for designing and implementing financial models used for budgeting and strategic planning of $4bn turnover in revenue to support critical decision making for Africa zone presidents and VP’s. Scope includes12 countries—South Africa, Eswatini, Lesotho, Namibia, Botswana, Mozambique, Zambia, Tanzania, Uganda, Ghana, Nigeria, and Mauritius. Successfully executed 2022/2023 modelling on time from topdown and bottom-up planning aligned with the company’s 10-year strategic plans for all beverage categories, assurance and compliance and sustainability missions. Executed using Azure Synapse, data factory and Power BI.
-- Implemented an Anaplan solution to improve reporting and budgeting by automating manual excel processes to Anaplan. Create a financial SKU-Universe data warehouse to act as a data mart to manage ad hoc queries to support operational decisions using SQL scripting and Power BI as a presentation layer for average business users. Reducing cycle planning from 5 working days to only 3. Designing and building ETL pipelines for MI reporting to senior leadership.
+- Responsible quarterly execution of process improvement plan in a role of business improvement scrum master. Leading teams to implement internal control standards across business functions including logistics, supply, finance, procurement and human resources. Executed using Azure Synapse, data factory and Power BI.
+- Developed and implemented a business application using Microsoft power platforms to manage goods in transit tracking by encouraging continuous control monitoring to reduce cross-board theft and fraud by 80%. Executed using Azure Synapse, data factory and Power BI.
+- Performed Data Clustering to automatically discover the segments or groups within a customer data set. To identify trends and customer behaviour using python and Dax. Created a bias framework on the use of artificial intelligence applications within ABI.
+
 
 ### Deloitte - South Africa
 #### Senior Data Analytics Consultant, February 2017 - February 2020
