@@ -2,7 +2,7 @@
 
 # Experience
 ### PwC - United Kingdom
-#### Innovation & Data Manager, April 2023 - Present
+#### Innovation & Data Manager, April 2023 - July 2024
 - Solution owner for next generation auditing - leading implementations for different technology stacks including Azure,Databricks, Microsoft Power platforms and Alteryx to achieve the goal of reducing up to 50% for repetitive work.
 - Developing data pipelines for risk and control models to generate insights and finding patterns in data to understand client risk to improve audit quality and market trust in external markets.
 - Managing a team of 4-7 people which I'm responsible for designing, developing ways to automate, coaching teams, and holding a leadership role in internal and external groups.
